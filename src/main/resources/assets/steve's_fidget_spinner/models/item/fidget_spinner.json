@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "steve's_fidget_spinner:items/fidget_spinner",
+        "layer1": "steve's_fidget_spinner:items/fidget_spinner_overlay"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "active": 1
+            },
+            "model": "steve's_fidget_spinner:item/fidget_spinner_active"
+        }
+    ]
+}

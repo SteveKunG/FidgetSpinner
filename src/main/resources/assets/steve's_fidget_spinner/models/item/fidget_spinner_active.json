@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "steve's_fidget_spinner:items/fidget_spinner_active",
+        "layer1": "steve's_fidget_spinner:items/fidget_spinner_active_overlay"
+    }
+}
